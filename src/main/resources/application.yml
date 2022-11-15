@@ -1,0 +1,16 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIA243ZOY3ARDZQ6P64
+      secret-key: 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
+    region:
+      static: us-east-1
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: bucketvaish
+
+server:
+  port: 8080
